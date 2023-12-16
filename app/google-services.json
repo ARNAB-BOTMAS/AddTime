@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651471846644",
+    "project_id": "adddatabase-d92cf",
+    "storage_bucket": "adddatabase-d92cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651471846644:android:6248341ee91ba18288b2a1",
+        "android_client_info": {
+          "package_name": "com.example.addtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuTgDfC6TTedZsrD0iir9d5GUJfFdp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
