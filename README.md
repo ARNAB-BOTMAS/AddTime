@@ -35,5 +35,5 @@ To begin using the Mobile Working Time Display App, follow these steps:
 
 ## Download
 
-- Download the [Mobile Working Time Display App v0.0.1](https://github.com/ARNAB-BOTMAS/AddTime/releases/download/v0.0.1/AddTime.apk)
+- Download the [Add Time App v0.0.1](https://github.com/ARNAB-BOTMAS/AddTime/releases/download/v0.0.1/AddTime.apk)
 - Download the [Work Time Display App v0.0.1](https://github.com/ARNAB-BOTMAS/ApplicationOvertime/releases/download/v0.0.1/DisplayOverTime.apk) to view your work time by date.
